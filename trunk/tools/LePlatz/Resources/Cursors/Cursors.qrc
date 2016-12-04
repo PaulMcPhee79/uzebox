@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/cursors" >
+        <file>bgi.png</file>
+        <file>bgm.png</file>
+        <file>bgo.png</file>
+        <file>insert.png</file>
+        <file>mp.png</file>
+        <file>mpPath.png</file>
+        <file>object.png</file>
+        <file>remove.png</file>
+        <file>select.png</file>
+        <file>slice.png</file>
+    </qresource>
+</RCC>

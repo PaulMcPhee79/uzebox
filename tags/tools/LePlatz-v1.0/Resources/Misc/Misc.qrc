@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/misc" >
+        <file>LePlatzLogo.png</file>
+        <file>LePlatzLogo_sml.png</file>
+        <file>pixDelim.png</file>
+        <file>PlatzLogo_sml.png</file>
+        <file>uzebox.png</file>
+        <file>uzeboxHome.png</file>
+        <file>UzeboxLogo.png</file>
+    </qresource>
+</RCC>

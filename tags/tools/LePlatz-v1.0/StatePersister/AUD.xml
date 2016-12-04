@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LePlatz>
+<LePlatz version="1.0">
+    <ProjectSettings>
+        <SliceSize width="0" height="0"/>
+        <SpriteSize width="0" height="0"/>
+        <ImageFormat>.png</ImageFormat>
+        <SlicePath>/slices/</SlicePath>
+        <TilePath>/tiles.png</TilePath>
+        <MapPath>/maps.png</MapPath>
+        <AnimPath>/animations.png</AnimPath>
+        <SrcFolder></SrcFolder>
+        <MakefilePath>/default/Makefile</MakefilePath>
+        <HexfilePath>/default/AUD.hex</HexfilePath>
+        <PlatzfilePath>/data/platz.levels.inc</PlatzfilePath>
+    </ProjectSettings>
+    <World/>
+</LePlatz>

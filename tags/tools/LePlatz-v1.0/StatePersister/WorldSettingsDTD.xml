@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LePlatzWorldSettings>
+<LePlatz version="1.0">
+	<WorldSettings>
+		<SliceSize width="256" height="200" />
+		<LargestSprite width="24" height="16" />
+		<WorldPath>C:/Documents and Settings/...</WorldPath>
+		<SourcePath>C:/Documents and Settings/src/...</SourcePath>
+		<MakefilePath>C:/Documents and Settings/default/...</MakefilePath>
+		<HexfilePath>C:/Documents and Settings/default/...</HexfilePath>
+	</WorldSettings>
+</Platz>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LePlatzSettings>
+<LePlatz version="1.0">
+	<LePlatzSettings>
+		<SliceSize width="256" height="200" />
+		<LargestSprite width="24" height="16" />
+		<MakeExePath>C:/Documents and Settings/make/...</MakeExePath>
+		<EmuExePath>C:/Documents and Settings/uzem/...</EmuExePath>
+		<RecentProjects>
+			<Project>C:/Documents and Settings/proj0/</Project>
+			<Project>C:/Documents and Settings/proj1/</Project>
+			<Project>C:/Documents and Settings/proj2/</Project>
+			<Project>C:/Documents and Settings/proj3/</Project>
+		</RecentProjects>
+	</LePlatzSettings>
+</Platz>
