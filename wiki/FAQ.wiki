@@ -2,7 +2,15 @@
 
 [http://uzebox.org/wiki/index.php?title=Pac-Man Uzebox game: Pac-Man]
 
+[http://uzebox.org/wiki/index.php?title=Donkey_Kong Uzebox game: Donkey Kong]
+
+[http://uzebox.org/wiki/index.php?title=Frogger Uzebox game: Frogger]
+
+[http://uzebox.org/wiki/index.php?title=Space_Invaders Uzebox game: Space Invaders]
+
 [http://uzebox.org/wiki/index.php?title=B.C._Dash Uzebox game: B.C. Dash]
+
+[http://uzebox.org/wiki/index.php?title=Emuze Emuze: Eeprom Management tool for the Uzebox]
 
 [http://uzebox.org/wiki/index.php?title=Platz_Toolset Platz: Uzebox Platformer Toolset]
 
